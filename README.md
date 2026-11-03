@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Elliot 👋
 
-<!--
-**ElliotGalaor/ElliotGalaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about applied mathematics, agentic development and building data pipelines. I use GitHub as my portfolio showcase: every repository here is a project I built out of curiosity and to keep learning.
 
-Here are some ideas to get you started:
+## 🔭 What I'm into
+- **Mathematics & visualization**: numerical methods, dynamical systems, fractals
+- **Agentic development**: designing systems where AI agents orchestrate tasks and tools end to end
+- **Data pipelines**: API ingestion, transformation, embeddings and vector search
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+- [**PaperReading**](https://github.com/ElliotGalaor/PaperReading) — A pipeline that collects papers from arXiv and OpenAlex, encodes them with SPECTER2 and indexes them in pgvector to surface the most similar work.
+- [**Newton_Fractals**](https://github.com/ElliotGalaor/Newton_Fractals) — Generating and visualizing Newton fractals in Python.
+
+## 🛠️ Tools
+Python · PostgreSQL / pgvector · Embeddings (SPECTER2) · arXiv & OpenAlex APIs
+
+## 📫 Get in touch
+📍 Marseille, France · [LinkedIn](https://www.linkedin.com/in/elliot-galaor/)
